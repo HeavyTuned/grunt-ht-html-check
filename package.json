@@ -1,0 +1,19 @@
+{
+  "name": "grunt-html-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HeavyTuned/grunt-ht-html-check.git"
+  },
+  "author": "Karol Kutrowski <it@heavy-tuned.de> (https://www.heavy-tuned.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeavyTuned/grunt-ht-html-check/issues"
+  },
+  "homepage": "https://github.com/HeavyTuned/grunt-ht-html-check#readme"
+}
